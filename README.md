@@ -2,8 +2,6 @@
 
 An interactive, Object-Oriented command-line finance tracking tool. This application uses a local CSV-based database for zero-setup data persistence, and leverages Pandas and Matplotlib for analytics and trends.
 
-This project is optimized to showcase core skills for entry-level Software Engineer and Data Analyst roles.
-
 ---
 
 ## Key Features
@@ -19,12 +17,16 @@ This project is optimized to showcase core skills for entry-level Software Engin
 
 ---
 
-## Resume Highlights (ATS-Optimized)
+## What is the Use of This Project?
 
-*   **Software Engineering & OOP**: Standard Python class designs, encapsulation, parameter validation, and separation of concerns.
-*   **Data Persistence (CSV)**: Managing structured data tables in flat CSV files, generating row index mappings, and updating/deleting records programmatically.
-*   **Data Aggregation & Filtering (Pandas)**: Loading datasets into DataFrames, filtering records by custom datetime ranges, utilizing `groupby` sums, and merging tables for budget checks.
-*   **Data Visualization (Matplotlib)**: Customizing trend line configurations, labels, gridlines, color formatting (Green for Income, Red for Expense), and exporting plots to image files.
+The Personal Finance Tracker & Budget Planner is designed to help individuals take control of their financial health. It provides a simple, clean, and zero-setup command-line interface to log daily transactions (income and expenses) and establish monthly category budget limits.
+
+## How is It Useful?
+
+*   **Prevent Overspending**: Set specific budgets for categories (like grocery, entertainment, transport) and instantly check your budget compliance dashboard to see remaining funds or flags when limits are exceeded.
+*   **Visual Financial Trends**: Rather than analyzing raw numbers, visualize your monthly cash flow with generated line trend charts that highlight total monthly income versus total monthly expenses.
+*   **Date-Specific Reporting**: Search and aggregate logs within custom date ranges to analyze spending habits during holidays, trips, or specific months.
+*   **Zero-Setup Portability**: Uses a simple local CSV file database, meaning no external servers, database installations, or cloud services are required. Your data stays private and localized.
 
 ---
 
